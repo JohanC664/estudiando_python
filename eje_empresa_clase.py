@@ -8,7 +8,7 @@ while cont < empleado :
     numero1=numero1+sueldo
     cont += 1
     print ("el empelado numero", cont , "resive un sueldo de", sueldo)
-    if sueldo >= 1300000 and sueldo <= 3000000
+    if sueldo >= 1300000 and sueldo <= 3000000:
         acum += 1
     elif sueldo >= 3000000:
         acum1 += 1
